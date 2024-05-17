@@ -1,5 +1,5 @@
 
-![Tarajia Multi Vendor E-Commerce](path/to/your/image.jpg)
+![Tarajia Multi Vendor E-Commerce](https://github.com/Ephantuz/VendorsTarajia/blob/main/Tarajia.png?raw=true)
 
 # VendorsTarajia
 
